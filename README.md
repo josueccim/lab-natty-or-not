@@ -1,7 +1,7 @@
-# Título do Projeto Extremamente Aesthetic ;)
+# Projeto teste IA Generativa  e Claude 3
 
 ## 📒 Descrição
-Breve descrição do seu projeto
+Descrição do que fiz
 
 ## 🤖 Tecnologias Utilizadas
 Liste as IAs Generativas e outras ferramentas usadas
